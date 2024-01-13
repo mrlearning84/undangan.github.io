@@ -404,8 +404,14 @@ footer a:hover i {
     text-align: center;
   }
   .simply-countdown > .simply-section {
-    padding: 45px;
+    padding: 40px;
     margin: 3px;
+  }
+  .home .container {
+    margin-top: -50px;
+  }
+  .home .couple {
+    margin-top: 20px;
   }
   .info {
     margin-top: -200px;
@@ -424,11 +430,11 @@ footer a:hover i {
   }
   .timeline li .timeline-panel {
     float: right;
-    width: 55%;
+    width: 40%;
   }
   .timeline li .timeline-image {
-    width: 120px;
-    height: 120px;
+    width: 100px;
+    height: 100px;
   }
   .rsvp button {
     width: 70px;
